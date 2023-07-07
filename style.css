@@ -663,7 +663,7 @@ footer {
   }
   .form-container form{
     animation:slideIn 1s ease-in forwards;
-    opacity: 0;
+    opacity: 100;
   }
   .home,
   .services,
