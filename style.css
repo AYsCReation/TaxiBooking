@@ -685,6 +685,6 @@ footer {
   
   .form-container form {
     animation: slideInFromLeft 1.5s ease-in ;
-    opacity: 0;
+    opacity: 100;
   }
   
